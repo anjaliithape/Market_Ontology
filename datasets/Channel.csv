@@ -1,0 +1,11 @@
+channel_id,kind,cost_model
+CH001,Paid Social,Fixed
+CH002,Display,CPM
+CH003,Email,CPC
+CH004,Paid Search,Fixed
+CH005,Webinar,CPC
+CH006,SEO,Fixed
+CH007,Events,CPM
+CH008,Partner,CPM
+CH009,Organic Social,CPC
+CH010,Direct,CPC

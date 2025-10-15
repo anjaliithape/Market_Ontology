@@ -1,0 +1,13 @@
+market_id,region,competitors,trend_index
+MK001,APAC,Contoso;Oscorp,0.9
+MK002,NA,Globex;Stark,0.45
+MK003,EMEA,Contoso;Wonka,0.67
+MK004,LATAM,Globex;LexCorp,0.42
+MK005,ANZ,WayneTech;Stark,0.83
+MK006,MEA,Contoso;Stark,0.57
+MK007,India,Globex;Oscorp,0.64
+MK008,SEA,Aperture;Oscorp,0.71
+MK009,EU-Central,WayneTech;Oscorp,0.85
+MK010,EU-North,Umbrella;Oscorp,0.39
+MK011,UKI,Oscorp;Wonka,0.57
+MK012,DACH,Wonka;Umbrella,0.79

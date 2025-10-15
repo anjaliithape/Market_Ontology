@@ -1,0 +1,651 @@
+campaign_id,campaign_name,objective,kind,status,start_date,end_date,budget
+CP0001,Campaign 0001,Retention,Partner,Ended,2024-03-25 00:00:00,2024-08-09 00:00:00,676.19
+CP0002,Campaign 0002,Awareness,Paid Social,Active,2025-02-09 00:00:00,2025-07-10 00:00:00,21.16
+CP0003,Campaign 0003,Cross-sell,Display,Active,2025-04-22 00:00:00,2025-10-18 00:00:00,124.49
+CP0004,Campaign 0004,Lead Generation,Events,Active,2025-01-19 00:00:00,2025-04-18 00:00:00,798.07
+CP0005,Campaign 0005,Cross-sell,Paid Social,Ended,2025-01-13 00:00:00,2025-08-28 00:00:00,765.84
+CP0006,Campaign 0006,Retention,Paid Social,Planned,2024-10-03 00:00:00,2025-03-09 00:00:00,132.3
+CP0007,Campaign 0007,Lead Generation,Partner,Planned,2025-02-22 00:00:00,2025-04-15 00:00:00,137.27
+CP0008,Campaign 0008,Cross-sell,Email,Ended,2025-01-07 00:00:00,2025-05-04 00:00:00,157.66
+CP0009,Campaign 0009,Lead Generation,Paid Search,Active,2024-01-20 00:00:00,2024-06-18 00:00:00,174.76
+CP0010,Campaign 0010,Lead Generation,Display,Active,2025-05-11 00:00:00,2025-12-31 00:00:00,452.5
+CP0011,Campaign 0011,Retention,Email,Active,2024-10-13 00:00:00,2025-02-19 00:00:00,711.17
+CP0012,Campaign 0012,Cross-sell,Organic Social,Paused,2024-07-28 00:00:00,2024-11-09 00:00:00,314.76
+CP0013,Campaign 0013,Lead Generation,Display,Paused,2024-09-05 00:00:00,2025-01-11 00:00:00,135.57
+CP0014,Campaign 0014,Cross-sell,Display,Planned,2025-01-01 00:00:00,2025-06-06 00:00:00,444.84
+CP0015,Campaign 0015,Retention,Organic Social,Active,2025-01-18 00:00:00,2025-06-30 00:00:00,784.2
+CP0016,Campaign 0016,Retention,SEO,Active,2024-02-27 00:00:00,2024-05-13 00:00:00,283.82
+CP0017,Campaign 0017,Lead Generation,Email,Active,2024-11-01 00:00:00,2025-02-17 00:00:00,61.86
+CP0018,Campaign 0018,Retention,Email,Ended,2025-02-20 00:00:00,2025-05-05 00:00:00,549.85
+CP0019,Campaign 0019,Cross-sell,Email,Active,2024-12-12 00:00:00,2025-05-24 00:00:00,769.53
+CP0020,Campaign 0020,Cross-sell,Organic Social,Paused,2024-10-29 00:00:00,2024-12-01 00:00:00,306.69
+CP0021,Campaign 0021,Lead Generation,Partner,Active,2024-05-06 00:00:00,2024-08-06 00:00:00,646.17
+CP0022,Campaign 0022,Lead Generation,Webinar,Ended,2025-01-31 00:00:00,2025-09-07 00:00:00,51.22
+CP0023,Campaign 0023,Lead Generation,Events,Paused,2024-05-12 00:00:00,2024-11-26 00:00:00,206.39
+CP0024,Campaign 0024,Awareness,Email,Paused,2024-07-20 00:00:00,2024-09-05 00:00:00,599.22
+CP0025,Campaign 0025,Awareness,Organic Social,Paused,2024-09-02 00:00:00,2024-10-14 00:00:00,730.04
+CP0026,Campaign 0026,Retention,Email,Active,2024-09-02 00:00:00,2024-10-09 00:00:00,706.35
+CP0027,Campaign 0027,Cross-sell,Direct,Ended,2024-11-03 00:00:00,2025-06-18 00:00:00,723.05
+CP0028,Campaign 0028,Retention,Email,Active,2024-09-01 00:00:00,2024-12-18 00:00:00,616.92
+CP0029,Campaign 0029,Lead Generation,Webinar,Active,2024-01-06 00:00:00,2024-05-12 00:00:00,479.01
+CP0030,Campaign 0030,Retention,Events,Ended,2024-11-25 00:00:00,2025-02-26 00:00:00,603.79
+CP0031,Campaign 0031,Awareness,Display,Active,2025-02-19 00:00:00,2025-04-25 00:00:00,323.6
+CP0032,Campaign 0032,Awareness,Display,Ended,2024-04-05 00:00:00,2024-05-11 00:00:00,695.2
+CP0033,Campaign 0033,Retention,Organic Social,Active,2024-12-01 00:00:00,2025-03-13 00:00:00,754.25
+CP0034,Campaign 0034,Awareness,Email,Active,2024-07-21 00:00:00,2024-12-24 00:00:00,155.32
+CP0035,Campaign 0035,Lead Generation,Paid Social,Planned,2024-07-12 00:00:00,2024-10-01 00:00:00,316.24
+CP0036,Campaign 0036,Awareness,Paid Search,Ended,2025-03-18 00:00:00,2025-05-03 00:00:00,209.8
+CP0037,Campaign 0037,Lead Generation,Paid Search,Paused,2024-12-22 00:00:00,2025-06-24 00:00:00,317.21
+CP0038,Campaign 0038,Cross-sell,Direct,Paused,2024-06-07 00:00:00,2025-01-08 00:00:00,87.87
+CP0039,Campaign 0039,Retention,Webinar,Paused,2024-11-03 00:00:00,2024-12-18 00:00:00,562.56
+CP0040,Campaign 0040,Lead Generation,Direct,Active,2024-09-26 00:00:00,2025-05-08 00:00:00,653.6
+CP0041,Campaign 0041,Lead Generation,SEO,Paused,2025-05-15 00:00:00,2025-08-04 00:00:00,529.79
+CP0042,Campaign 0042,Lead Generation,Partner,Planned,2024-08-03 00:00:00,2024-09-29 00:00:00,408.98
+CP0043,Campaign 0043,Cross-sell,Organic Social,Ended,2025-04-29 00:00:00,2025-06-03 00:00:00,415.28
+CP0044,Campaign 0044,Awareness,Paid Social,Planned,2025-03-24 00:00:00,2025-08-03 00:00:00,48.57
+CP0045,Campaign 0045,Retention,Direct,Active,2024-08-10 00:00:00,2024-09-19 00:00:00,655.66
+CP0046,Campaign 0046,Awareness,Events,Ended,2025-01-05 00:00:00,2025-05-24 00:00:00,314.47
+CP0047,Campaign 0047,Lead Generation,Partner,Planned,2024-09-06 00:00:00,2024-12-03 00:00:00,146.55
+CP0048,Campaign 0048,Cross-sell,Direct,Active,2024-07-09 00:00:00,2025-02-07 00:00:00,537.74
+CP0049,Campaign 0049,Awareness,Partner,Paused,2025-03-15 00:00:00,2025-09-16 00:00:00,734.18
+CP0050,Campaign 0050,Lead Generation,Email,Ended,2024-07-16 00:00:00,2024-11-01 00:00:00,256.97
+CP0051,Campaign 0051,Lead Generation,Organic Social,Active,2024-06-08 00:00:00,2024-10-16 00:00:00,148.5
+CP0052,Campaign 0052,Cross-sell,Display,Ended,2024-09-24 00:00:00,2025-01-09 00:00:00,792.76
+CP0053,Campaign 0053,Awareness,SEO,Ended,2024-03-26 00:00:00,2024-10-22 00:00:00,303.86
+CP0054,Campaign 0054,Retention,Display,Active,2024-10-24 00:00:00,2025-05-16 00:00:00,761.48
+CP0055,Campaign 0055,Awareness,Organic Social,Paused,2024-06-13 00:00:00,2024-11-21 00:00:00,167.91
+CP0056,Campaign 0056,Cross-sell,Email,Paused,2024-11-02 00:00:00,2025-05-27 00:00:00,753.18
+CP0057,Campaign 0057,Cross-sell,Direct,Ended,2024-08-27 00:00:00,2025-01-06 00:00:00,535.95
+CP0058,Campaign 0058,Retention,Display,Ended,2024-12-08 00:00:00,2025-02-20 00:00:00,158.88
+CP0059,Campaign 0059,Retention,SEO,Planned,2025-05-06 00:00:00,2025-07-30 00:00:00,25.0
+CP0060,Campaign 0060,Cross-sell,Direct,Planned,2024-09-13 00:00:00,2025-03-10 00:00:00,358.58
+CP0061,Campaign 0061,Awareness,Display,Planned,2024-08-18 00:00:00,2024-11-17 00:00:00,778.54
+CP0062,Campaign 0062,Lead Generation,SEO,Paused,2024-04-07 00:00:00,2024-08-31 00:00:00,141.3
+CP0063,Campaign 0063,Lead Generation,Webinar,Ended,2024-10-19 00:00:00,2025-06-08 00:00:00,158.18
+CP0064,Campaign 0064,Awareness,Direct,Active,2024-07-25 00:00:00,2025-01-12 00:00:00,643.88
+CP0065,Campaign 0065,Lead Generation,Direct,Ended,2025-03-07 00:00:00,2025-09-02 00:00:00,67.68
+CP0066,Campaign 0066,Awareness,Paid Social,Active,2024-08-11 00:00:00,2025-03-20 00:00:00,402.91
+CP0067,Campaign 0067,Cross-sell,SEO,Ended,2024-09-26 00:00:00,2025-03-30 00:00:00,130.64
+CP0068,Campaign 0068,Retention,Paid Social,Paused,2024-03-19 00:00:00,2024-07-17 00:00:00,713.22
+CP0069,Campaign 0069,Awareness,Organic Social,Planned,2024-02-06 00:00:00,2024-08-25 00:00:00,87.54
+CP0070,Campaign 0070,Retention,SEO,Paused,2025-02-28 00:00:00,2025-05-17 00:00:00,56.42
+CP0071,Campaign 0071,Retention,Events,Ended,2024-01-20 00:00:00,2024-07-17 00:00:00,134.97
+CP0072,Campaign 0072,Retention,Events,Paused,2024-02-23 00:00:00,2024-05-22 00:00:00,167.19
+CP0073,Campaign 0073,Lead Generation,SEO,Ended,2024-04-09 00:00:00,2024-11-11 00:00:00,663.55
+CP0074,Campaign 0074,Retention,Direct,Planned,2024-04-19 00:00:00,2024-09-24 00:00:00,430.71
+CP0075,Campaign 0075,Lead Generation,SEO,Active,2024-11-17 00:00:00,2025-05-30 00:00:00,400.11
+CP0076,Campaign 0076,Retention,Paid Social,Planned,2024-03-23 00:00:00,2024-08-13 00:00:00,181.68
+CP0077,Campaign 0077,Retention,Events,Planned,2025-02-02 00:00:00,2025-08-16 00:00:00,176.02
+CP0078,Campaign 0078,Lead Generation,SEO,Paused,2024-08-25 00:00:00,2025-03-21 00:00:00,146.95
+CP0079,Campaign 0079,Cross-sell,Email,Planned,2024-05-15 00:00:00,2024-11-16 00:00:00,154.04
+CP0080,Campaign 0080,Cross-sell,Paid Search,Active,2025-05-13 00:00:00,2025-10-27 00:00:00,188.79
+CP0081,Campaign 0081,Cross-sell,SEO,Paused,2024-09-20 00:00:00,2025-03-11 00:00:00,729.02
+CP0082,Campaign 0082,Retention,Organic Social,Active,2024-05-02 00:00:00,2024-09-12 00:00:00,540.78
+CP0083,Campaign 0083,Lead Generation,Events,Active,2025-03-19 00:00:00,2025-07-19 00:00:00,764.15
+CP0084,Campaign 0084,Lead Generation,Paid Search,Active,2025-01-21 00:00:00,2025-02-26 00:00:00,742.88
+CP0085,Campaign 0085,Lead Generation,Email,Paused,2024-09-24 00:00:00,2025-01-26 00:00:00,199.64
+CP0086,Campaign 0086,Cross-sell,Paid Search,Ended,2024-08-05 00:00:00,2025-02-08 00:00:00,524.12
+CP0087,Campaign 0087,Cross-sell,Paid Search,Ended,2024-05-09 00:00:00,2024-07-25 00:00:00,396.77
+CP0088,Campaign 0088,Awareness,Paid Social,Ended,2024-05-15 00:00:00,2024-06-24 00:00:00,633.45
+CP0089,Campaign 0089,Retention,Email,Ended,2024-06-21 00:00:00,2024-12-18 00:00:00,587.36
+CP0090,Campaign 0090,Cross-sell,Paid Social,Active,2024-03-22 00:00:00,2024-07-26 00:00:00,12.96
+CP0091,Campaign 0091,Cross-sell,Paid Search,Paused,2024-12-06 00:00:00,2025-06-02 00:00:00,393.95
+CP0092,Campaign 0092,Cross-sell,Paid Social,Active,2025-03-21 00:00:00,2025-10-24 00:00:00,31.4
+CP0093,Campaign 0093,Retention,Partner,Ended,2025-04-14 00:00:00,2025-06-16 00:00:00,289.9
+CP0094,Campaign 0094,Lead Generation,Webinar,Ended,2024-10-15 00:00:00,2025-04-23 00:00:00,603.52
+CP0095,Campaign 0095,Cross-sell,Display,Paused,2024-07-10 00:00:00,2025-01-23 00:00:00,743.24
+CP0096,Campaign 0096,Lead Generation,Webinar,Paused,2024-04-11 00:00:00,2024-10-10 00:00:00,206.48
+CP0097,Campaign 0097,Lead Generation,Direct,Paused,2024-03-07 00:00:00,2024-05-13 00:00:00,243.69
+CP0098,Campaign 0098,Awareness,Partner,Active,2024-04-21 00:00:00,2024-09-29 00:00:00,619.23
+CP0099,Campaign 0099,Retention,Organic Social,Planned,2024-09-10 00:00:00,2024-12-04 00:00:00,300.87
+CP0100,Campaign 0100,Lead Generation,Webinar,Paused,2024-04-08 00:00:00,2024-06-13 00:00:00,560.11
+CP0101,Campaign 0101,Lead Generation,Paid Search,Planned,2024-07-30 00:00:00,2024-09-13 00:00:00,479.77
+CP0102,Campaign 0102,Cross-sell,Paid Social,Paused,2024-08-15 00:00:00,2025-01-16 00:00:00,512.22
+CP0103,Campaign 0103,Cross-sell,Partner,Paused,2024-07-06 00:00:00,2024-09-10 00:00:00,512.25
+CP0104,Campaign 0104,Cross-sell,Paid Search,Active,2024-08-21 00:00:00,2025-03-23 00:00:00,25.7
+CP0105,Campaign 0105,Lead Generation,SEO,Active,2024-11-25 00:00:00,2025-04-20 00:00:00,397.19
+CP0106,Campaign 0106,Retention,SEO,Paused,2024-03-25 00:00:00,2024-04-27 00:00:00,246.42
+CP0107,Campaign 0107,Awareness,Paid Search,Ended,2025-05-08 00:00:00,2025-06-19 00:00:00,129.83
+CP0108,Campaign 0108,Awareness,Organic Social,Active,2024-11-15 00:00:00,2025-01-24 00:00:00,98.29
+CP0109,Campaign 0109,Cross-sell,Display,Planned,2024-09-30 00:00:00,2025-04-12 00:00:00,611.09
+CP0110,Campaign 0110,Lead Generation,Display,Active,2024-04-14 00:00:00,2024-11-09 00:00:00,626.14
+CP0111,Campaign 0111,Awareness,Paid Search,Planned,2024-04-22 00:00:00,2024-10-22 00:00:00,351.16
+CP0112,Campaign 0112,Lead Generation,Events,Active,2025-02-07 00:00:00,2025-10-04 00:00:00,249.06
+CP0113,Campaign 0113,Cross-sell,Paid Social,Paused,2024-06-11 00:00:00,2025-02-02 00:00:00,465.87
+CP0114,Campaign 0114,Awareness,Paid Social,Ended,2024-01-24 00:00:00,2024-06-05 00:00:00,741.72
+CP0115,Campaign 0115,Cross-sell,Webinar,Paused,2024-02-10 00:00:00,2024-09-26 00:00:00,429.2
+CP0116,Campaign 0116,Retention,Partner,Paused,2024-03-24 00:00:00,2024-07-06 00:00:00,528.23
+CP0117,Campaign 0117,Lead Generation,Display,Paused,2024-07-18 00:00:00,2025-03-10 00:00:00,236.93
+CP0118,Campaign 0118,Awareness,Email,Paused,2024-02-16 00:00:00,2024-07-19 00:00:00,256.31
+CP0119,Campaign 0119,Cross-sell,Paid Search,Paused,2024-07-18 00:00:00,2024-09-14 00:00:00,48.77
+CP0120,Campaign 0120,Cross-sell,Paid Search,Planned,2025-01-16 00:00:00,2025-06-03 00:00:00,449.56
+CP0121,Campaign 0121,Lead Generation,Partner,Active,2024-07-05 00:00:00,2025-02-05 00:00:00,504.66
+CP0122,Campaign 0122,Awareness,Paid Social,Ended,2024-11-07 00:00:00,2025-03-01 00:00:00,346.16
+CP0123,Campaign 0123,Awareness,Paid Search,Planned,2024-04-12 00:00:00,2024-06-22 00:00:00,140.65
+CP0124,Campaign 0124,Awareness,Partner,Planned,2025-05-08 00:00:00,2025-09-01 00:00:00,206.47
+CP0125,Campaign 0125,Awareness,Webinar,Ended,2024-06-30 00:00:00,2024-12-12 00:00:00,563.91
+CP0126,Campaign 0126,Cross-sell,Email,Paused,2025-04-05 00:00:00,2025-06-20 00:00:00,269.52
+CP0127,Campaign 0127,Awareness,Webinar,Active,2025-04-01 00:00:00,2025-10-14 00:00:00,546.6
+CP0128,Campaign 0128,Lead Generation,Paid Search,Planned,2025-01-30 00:00:00,2025-08-26 00:00:00,578.05
+CP0129,Campaign 0129,Awareness,Events,Ended,2024-06-04 00:00:00,2024-09-25 00:00:00,31.95
+CP0130,Campaign 0130,Awareness,Direct,Paused,2024-10-22 00:00:00,2025-01-29 00:00:00,615.7
+CP0131,Campaign 0131,Lead Generation,Paid Search,Planned,2024-04-28 00:00:00,2024-12-16 00:00:00,660.47
+CP0132,Campaign 0132,Awareness,Email,Ended,2025-05-15 00:00:00,2025-08-01 00:00:00,527.48
+CP0133,Campaign 0133,Awareness,Organic Social,Paused,2024-08-08 00:00:00,2024-12-13 00:00:00,315.18
+CP0134,Campaign 0134,Lead Generation,Email,Planned,2024-03-11 00:00:00,2024-10-09 00:00:00,368.94
+CP0135,Campaign 0135,Lead Generation,SEO,Planned,2025-01-25 00:00:00,2025-06-25 00:00:00,97.95
+CP0136,Campaign 0136,Cross-sell,Webinar,Paused,2024-09-18 00:00:00,2025-03-16 00:00:00,336.6
+CP0137,Campaign 0137,Retention,SEO,Planned,2024-07-19 00:00:00,2025-02-20 00:00:00,14.37
+CP0138,Campaign 0138,Cross-sell,SEO,Paused,2024-07-28 00:00:00,2025-03-17 00:00:00,706.31
+CP0139,Campaign 0139,Retention,SEO,Active,2024-05-15 00:00:00,2024-09-11 00:00:00,171.82
+CP0140,Campaign 0140,Retention,Email,Planned,2024-03-23 00:00:00,2024-11-17 00:00:00,12.87
+CP0141,Campaign 0141,Retention,Paid Search,Active,2024-06-23 00:00:00,2024-08-03 00:00:00,408.65
+CP0142,Campaign 0142,Awareness,SEO,Planned,2024-01-22 00:00:00,2024-09-13 00:00:00,462.82
+CP0143,Campaign 0143,Retention,Direct,Active,2024-10-10 00:00:00,2025-01-07 00:00:00,576.6
+CP0144,Campaign 0144,Lead Generation,Email,Active,2024-11-06 00:00:00,2025-06-18 00:00:00,743.57
+CP0145,Campaign 0145,Retention,Paid Search,Paused,2024-06-06 00:00:00,2024-10-19 00:00:00,584.41
+CP0146,Campaign 0146,Lead Generation,Paid Search,Paused,2024-07-15 00:00:00,2025-03-04 00:00:00,246.3
+CP0147,Campaign 0147,Awareness,Display,Ended,2024-04-26 00:00:00,2024-08-11 00:00:00,498.15
+CP0148,Campaign 0148,Awareness,Email,Ended,2025-04-05 00:00:00,2025-08-31 00:00:00,578.27
+CP0149,Campaign 0149,Cross-sell,Display,Ended,2024-08-12 00:00:00,2024-09-23 00:00:00,722.19
+CP0150,Campaign 0150,Lead Generation,Direct,Active,2024-10-11 00:00:00,2025-03-14 00:00:00,645.46
+CP0151,Campaign 0151,Retention,Organic Social,Planned,2025-01-04 00:00:00,2025-08-18 00:00:00,121.84
+CP0152,Campaign 0152,Cross-sell,Display,Planned,2024-11-21 00:00:00,2024-12-21 00:00:00,463.59
+CP0153,Campaign 0153,Cross-sell,Partner,Ended,2024-07-05 00:00:00,2025-01-06 00:00:00,602.31
+CP0154,Campaign 0154,Awareness,Webinar,Paused,2024-04-05 00:00:00,2024-09-26 00:00:00,64.36
+CP0155,Campaign 0155,Cross-sell,SEO,Active,2025-04-11 00:00:00,2025-06-16 00:00:00,451.04
+CP0156,Campaign 0156,Lead Generation,SEO,Ended,2025-01-28 00:00:00,2025-05-28 00:00:00,431.26
+CP0157,Campaign 0157,Awareness,Partner,Active,2024-01-27 00:00:00,2024-03-17 00:00:00,279.81
+CP0158,Campaign 0158,Cross-sell,Webinar,Active,2024-05-29 00:00:00,2024-11-06 00:00:00,619.39
+CP0159,Campaign 0159,Retention,Direct,Paused,2024-12-17 00:00:00,2025-06-11 00:00:00,475.84
+CP0160,Campaign 0160,Awareness,Webinar,Ended,2024-09-04 00:00:00,2025-02-17 00:00:00,170.84
+CP0161,Campaign 0161,Lead Generation,Email,Active,2024-04-01 00:00:00,2024-09-16 00:00:00,219.64
+CP0162,Campaign 0162,Retention,Paid Search,Ended,2025-01-19 00:00:00,2025-06-21 00:00:00,406.59
+CP0163,Campaign 0163,Retention,Direct,Planned,2024-02-14 00:00:00,2024-08-16 00:00:00,774.81
+CP0164,Campaign 0164,Lead Generation,Organic Social,Active,2024-04-14 00:00:00,2024-09-28 00:00:00,617.94
+CP0165,Campaign 0165,Cross-sell,Events,Active,2024-09-16 00:00:00,2025-05-08 00:00:00,797.27
+CP0166,Campaign 0166,Retention,Direct,Ended,2025-03-09 00:00:00,2025-09-27 00:00:00,557.0
+CP0167,Campaign 0167,Retention,Events,Planned,2024-08-08 00:00:00,2024-10-26 00:00:00,340.1
+CP0168,Campaign 0168,Retention,Events,Active,2025-04-01 00:00:00,2025-10-19 00:00:00,398.41
+CP0169,Campaign 0169,Lead Generation,SEO,Active,2024-10-27 00:00:00,2025-06-01 00:00:00,208.98
+CP0170,Campaign 0170,Lead Generation,Webinar,Ended,2025-05-06 00:00:00,2025-08-31 00:00:00,546.46
+CP0171,Campaign 0171,Lead Generation,SEO,Active,2025-05-04 00:00:00,2025-08-01 00:00:00,527.6
+CP0172,Campaign 0172,Awareness,SEO,Active,2025-04-09 00:00:00,2025-07-05 00:00:00,480.09
+CP0173,Campaign 0173,Lead Generation,Paid Social,Planned,2025-01-04 00:00:00,2025-07-25 00:00:00,679.9
+CP0174,Campaign 0174,Awareness,Events,Active,2024-09-03 00:00:00,2025-02-25 00:00:00,307.77
+CP0175,Campaign 0175,Awareness,Email,Planned,2024-06-03 00:00:00,2024-10-29 00:00:00,157.1
+CP0176,Campaign 0176,Awareness,Events,Ended,2024-10-27 00:00:00,2025-03-03 00:00:00,643.87
+CP0177,Campaign 0177,Awareness,Organic Social,Planned,2024-07-15 00:00:00,2024-11-09 00:00:00,664.94
+CP0178,Campaign 0178,Lead Generation,Display,Paused,2024-02-20 00:00:00,2024-04-19 00:00:00,773.29
+CP0179,Campaign 0179,Cross-sell,Partner,Paused,2025-02-13 00:00:00,2025-08-29 00:00:00,225.75
+CP0180,Campaign 0180,Lead Generation,Organic Social,Ended,2025-02-19 00:00:00,2025-09-23 00:00:00,464.94
+CP0181,Campaign 0181,Lead Generation,SEO,Ended,2024-03-16 00:00:00,2024-07-15 00:00:00,675.87
+CP0182,Campaign 0182,Cross-sell,Partner,Ended,2024-08-21 00:00:00,2024-12-30 00:00:00,611.7
+CP0183,Campaign 0183,Lead Generation,Events,Active,2025-03-28 00:00:00,2025-10-02 00:00:00,202.18
+CP0184,Campaign 0184,Awareness,Partner,Paused,2025-04-10 00:00:00,2025-05-23 00:00:00,218.27
+CP0185,Campaign 0185,Awareness,Events,Ended,2024-10-20 00:00:00,2025-06-10 00:00:00,310.3
+CP0186,Campaign 0186,Retention,SEO,Active,2024-06-24 00:00:00,2025-02-15 00:00:00,674.44
+CP0187,Campaign 0187,Cross-sell,Paid Social,Paused,2024-05-25 00:00:00,2025-01-03 00:00:00,769.71
+CP0188,Campaign 0188,Lead Generation,Partner,Planned,2024-02-16 00:00:00,2024-05-26 00:00:00,758.03
+CP0189,Campaign 0189,Retention,Events,Ended,2024-08-28 00:00:00,2024-12-17 00:00:00,189.71
+CP0190,Campaign 0190,Awareness,Organic Social,Active,2024-05-12 00:00:00,2024-06-30 00:00:00,602.44
+CP0191,Campaign 0191,Cross-sell,Organic Social,Paused,2024-02-09 00:00:00,2024-04-30 00:00:00,443.48
+CP0192,Campaign 0192,Cross-sell,Partner,Active,2025-04-29 00:00:00,2025-10-07 00:00:00,93.95
+CP0193,Campaign 0193,Lead Generation,Direct,Active,2024-09-21 00:00:00,2025-05-01 00:00:00,325.34
+CP0194,Campaign 0194,Cross-sell,Paid Search,Active,2025-05-10 00:00:00,2025-12-09 00:00:00,338.7
+CP0195,Campaign 0195,Awareness,Paid Social,Paused,2024-04-26 00:00:00,2024-07-23 00:00:00,142.87
+CP0196,Campaign 0196,Retention,Direct,Planned,2025-01-08 00:00:00,2025-03-30 00:00:00,323.87
+CP0197,Campaign 0197,Lead Generation,Events,Active,2024-12-22 00:00:00,2025-07-28 00:00:00,232.19
+CP0198,Campaign 0198,Lead Generation,Paid Search,Paused,2024-02-17 00:00:00,2024-08-14 00:00:00,735.09
+CP0199,Campaign 0199,Retention,Paid Social,Ended,2025-02-12 00:00:00,2025-06-20 00:00:00,305.32
+CP0200,Campaign 0200,Lead Generation,Paid Social,Paused,2024-09-01 00:00:00,2025-04-09 00:00:00,436.06
+CP0201,Campaign 0201,Cross-sell,SEO,Ended,2024-03-06 00:00:00,2024-04-13 00:00:00,756.82
+CP0202,Campaign 0202,Retention,Paid Social,Planned,2024-08-25 00:00:00,2025-03-24 00:00:00,216.96
+CP0203,Campaign 0203,Lead Generation,Email,Active,2024-06-11 00:00:00,2024-09-27 00:00:00,767.69
+CP0204,Campaign 0204,Retention,Organic Social,Planned,2025-04-03 00:00:00,2025-06-15 00:00:00,680.25
+CP0205,Campaign 0205,Lead Generation,Display,Active,2024-07-17 00:00:00,2025-01-20 00:00:00,214.71
+CP0206,Campaign 0206,Retention,Events,Planned,2024-12-21 00:00:00,2025-07-02 00:00:00,384.75
+CP0207,Campaign 0207,Cross-sell,SEO,Planned,2025-02-05 00:00:00,2025-05-10 00:00:00,202.59
+CP0208,Campaign 0208,Lead Generation,Email,Active,2024-12-06 00:00:00,2025-04-01 00:00:00,640.25
+CP0209,Campaign 0209,Awareness,Paid Social,Ended,2024-12-28 00:00:00,2025-07-11 00:00:00,428.96
+CP0210,Campaign 0210,Awareness,Email,Planned,2024-09-02 00:00:00,2024-12-07 00:00:00,215.85
+CP0211,Campaign 0211,Cross-sell,Paid Search,Active,2024-01-21 00:00:00,2024-03-26 00:00:00,169.77
+CP0212,Campaign 0212,Lead Generation,Email,Paused,2024-07-06 00:00:00,2024-12-06 00:00:00,112.92
+CP0213,Campaign 0213,Retention,Webinar,Ended,2024-06-27 00:00:00,2024-10-07 00:00:00,294.17
+CP0214,Campaign 0214,Retention,Organic Social,Active,2024-07-08 00:00:00,2024-09-29 00:00:00,35.98
+CP0215,Campaign 0215,Retention,Organic Social,Active,2025-02-05 00:00:00,2025-05-14 00:00:00,466.39
+CP0216,Campaign 0216,Retention,Email,Paused,2024-07-27 00:00:00,2024-10-21 00:00:00,445.32
+CP0217,Campaign 0217,Lead Generation,Partner,Planned,2025-01-15 00:00:00,2025-07-19 00:00:00,133.86
+CP0218,Campaign 0218,Awareness,Organic Social,Ended,2024-12-10 00:00:00,2025-04-27 00:00:00,354.73
+CP0219,Campaign 0219,Awareness,Organic Social,Active,2024-12-16 00:00:00,2025-06-29 00:00:00,699.49
+CP0220,Campaign 0220,Retention,Partner,Planned,2024-09-21 00:00:00,2025-03-09 00:00:00,104.08
+CP0221,Campaign 0221,Retention,Webinar,Ended,2024-10-12 00:00:00,2025-03-19 00:00:00,347.12
+CP0222,Campaign 0222,Retention,Paid Search,Planned,2024-03-04 00:00:00,2024-06-14 00:00:00,251.09
+CP0223,Campaign 0223,Lead Generation,SEO,Active,2025-02-25 00:00:00,2025-09-15 00:00:00,274.12
+CP0224,Campaign 0224,Cross-sell,Email,Paused,2025-01-07 00:00:00,2025-07-18 00:00:00,786.6
+CP0225,Campaign 0225,Cross-sell,Paid Search,Paused,2025-03-16 00:00:00,2025-08-04 00:00:00,651.84
+CP0226,Campaign 0226,Cross-sell,Direct,Active,2024-09-19 00:00:00,2024-12-05 00:00:00,72.74
+CP0227,Campaign 0227,Awareness,Partner,Paused,2024-03-28 00:00:00,2024-05-16 00:00:00,615.9
+CP0228,Campaign 0228,Cross-sell,SEO,Ended,2025-03-15 00:00:00,2025-06-27 00:00:00,73.76
+CP0229,Campaign 0229,Lead Generation,SEO,Active,2024-07-12 00:00:00,2024-10-29 00:00:00,305.28
+CP0230,Campaign 0230,Lead Generation,Email,Paused,2024-12-12 00:00:00,2025-05-28 00:00:00,529.0
+CP0231,Campaign 0231,Cross-sell,Display,Paused,2024-01-01 00:00:00,2024-05-09 00:00:00,637.42
+CP0232,Campaign 0232,Lead Generation,Paid Search,Planned,2025-03-02 00:00:00,2025-05-14 00:00:00,197.73
+CP0233,Campaign 0233,Cross-sell,Email,Planned,2024-12-11 00:00:00,2025-04-30 00:00:00,501.31
+CP0234,Campaign 0234,Lead Generation,Partner,Planned,2024-02-09 00:00:00,2024-07-01 00:00:00,331.22
+CP0235,Campaign 0235,Cross-sell,Direct,Ended,2024-01-18 00:00:00,2024-03-22 00:00:00,166.35
+CP0236,Campaign 0236,Lead Generation,Direct,Planned,2025-02-03 00:00:00,2025-08-18 00:00:00,589.93
+CP0237,Campaign 0237,Awareness,Webinar,Active,2025-01-10 00:00:00,2025-05-08 00:00:00,623.92
+CP0238,Campaign 0238,Lead Generation,Webinar,Active,2025-04-14 00:00:00,2025-10-21 00:00:00,149.86
+CP0239,Campaign 0239,Lead Generation,Direct,Ended,2024-07-01 00:00:00,2025-01-31 00:00:00,215.15
+CP0240,Campaign 0240,Cross-sell,Webinar,Ended,2024-10-13 00:00:00,2025-03-30 00:00:00,753.2
+CP0241,Campaign 0241,Lead Generation,Email,Active,2024-01-21 00:00:00,2024-06-10 00:00:00,250.76
+CP0242,Campaign 0242,Lead Generation,Webinar,Ended,2024-09-04 00:00:00,2025-03-16 00:00:00,521.05
+CP0243,Campaign 0243,Cross-sell,Organic Social,Paused,2025-02-15 00:00:00,2025-08-01 00:00:00,728.87
+CP0244,Campaign 0244,Awareness,Partner,Paused,2024-11-03 00:00:00,2024-12-12 00:00:00,218.13
+CP0245,Campaign 0245,Lead Generation,Email,Paused,2024-08-05 00:00:00,2024-09-28 00:00:00,277.81
+CP0246,Campaign 0246,Awareness,Webinar,Planned,2025-05-09 00:00:00,2025-09-26 00:00:00,284.64
+CP0247,Campaign 0247,Awareness,SEO,Planned,2024-08-15 00:00:00,2024-12-23 00:00:00,57.43
+CP0248,Campaign 0248,Awareness,Partner,Active,2024-03-14 00:00:00,2024-10-17 00:00:00,732.81
+CP0249,Campaign 0249,Lead Generation,Webinar,Ended,2024-11-03 00:00:00,2025-06-26 00:00:00,362.79
+CP0250,Campaign 0250,Lead Generation,SEO,Active,2024-10-15 00:00:00,2024-12-24 00:00:00,69.15
+CP0251,Campaign 0251,Retention,Display,Paused,2024-02-11 00:00:00,2024-05-23 00:00:00,179.55
+CP0252,Campaign 0252,Retention,Email,Ended,2024-04-27 00:00:00,2024-10-26 00:00:00,392.45
+CP0253,Campaign 0253,Cross-sell,Email,Active,2024-02-02 00:00:00,2024-05-20 00:00:00,349.87
+CP0254,Campaign 0254,Retention,Paid Search,Paused,2024-07-31 00:00:00,2024-09-04 00:00:00,317.92
+CP0255,Campaign 0255,Awareness,Paid Search,Ended,2024-07-15 00:00:00,2024-12-30 00:00:00,77.99
+CP0256,Campaign 0256,Retention,Partner,Ended,2025-02-12 00:00:00,2025-07-05 00:00:00,108.17
+CP0257,Campaign 0257,Lead Generation,Webinar,Paused,2024-10-16 00:00:00,2025-06-09 00:00:00,170.91
+CP0258,Campaign 0258,Lead Generation,Paid Search,Planned,2024-12-10 00:00:00,2025-06-22 00:00:00,12.86
+CP0259,Campaign 0259,Cross-sell,Display,Planned,2024-11-12 00:00:00,2025-03-08 00:00:00,445.34
+CP0260,Campaign 0260,Awareness,Webinar,Planned,2024-06-18 00:00:00,2024-11-30 00:00:00,631.62
+CP0261,Campaign 0261,Lead Generation,SEO,Ended,2024-11-06 00:00:00,2025-06-28 00:00:00,582.46
+CP0262,Campaign 0262,Cross-sell,Paid Social,Active,2024-11-17 00:00:00,2025-04-12 00:00:00,794.56
+CP0263,Campaign 0263,Awareness,Partner,Ended,2025-04-17 00:00:00,2025-07-19 00:00:00,641.67
+CP0264,Campaign 0264,Awareness,Email,Active,2024-05-20 00:00:00,2024-08-10 00:00:00,128.06
+CP0265,Campaign 0265,Cross-sell,Organic Social,Active,2024-06-01 00:00:00,2024-10-04 00:00:00,396.67
+CP0266,Campaign 0266,Awareness,Events,Planned,2024-01-16 00:00:00,2024-08-25 00:00:00,459.54
+CP0267,Campaign 0267,Retention,Email,Planned,2024-02-12 00:00:00,2024-07-05 00:00:00,293.69
+CP0268,Campaign 0268,Awareness,Display,Ended,2024-04-27 00:00:00,2024-10-02 00:00:00,301.96
+CP0269,Campaign 0269,Lead Generation,Organic Social,Ended,2024-10-24 00:00:00,2024-12-04 00:00:00,695.79
+CP0270,Campaign 0270,Retention,Webinar,Active,2024-03-07 00:00:00,2024-04-08 00:00:00,238.73
+CP0271,Campaign 0271,Awareness,Organic Social,Active,2024-11-03 00:00:00,2025-04-20 00:00:00,228.72
+CP0272,Campaign 0272,Retention,Paid Social,Planned,2024-12-07 00:00:00,2025-04-15 00:00:00,486.09
+CP0273,Campaign 0273,Cross-sell,SEO,Ended,2024-12-18 00:00:00,2025-07-13 00:00:00,89.8
+CP0274,Campaign 0274,Retention,SEO,Planned,2024-09-26 00:00:00,2025-01-09 00:00:00,37.81
+CP0275,Campaign 0275,Retention,Events,Ended,2024-09-20 00:00:00,2025-02-13 00:00:00,184.85
+CP0276,Campaign 0276,Lead Generation,Email,Planned,2024-02-03 00:00:00,2024-05-03 00:00:00,650.11
+CP0277,Campaign 0277,Cross-sell,Direct,Ended,2024-02-07 00:00:00,2024-03-16 00:00:00,758.04
+CP0278,Campaign 0278,Cross-sell,Events,Ended,2025-04-14 00:00:00,2025-08-24 00:00:00,538.34
+CP0279,Campaign 0279,Lead Generation,Direct,Active,2025-02-24 00:00:00,2025-05-05 00:00:00,167.83
+CP0280,Campaign 0280,Lead Generation,Direct,Active,2025-04-23 00:00:00,2025-10-21 00:00:00,206.84
+CP0281,Campaign 0281,Lead Generation,Paid Social,Active,2024-06-30 00:00:00,2024-09-30 00:00:00,573.04
+CP0282,Campaign 0282,Cross-sell,Paid Social,Ended,2024-08-03 00:00:00,2024-10-29 00:00:00,753.91
+CP0283,Campaign 0283,Awareness,Email,Ended,2024-05-05 00:00:00,2024-08-26 00:00:00,441.25
+CP0284,Campaign 0284,Lead Generation,Organic Social,Active,2024-08-20 00:00:00,2025-01-08 00:00:00,129.14
+CP0285,Campaign 0285,Cross-sell,Partner,Planned,2025-04-18 00:00:00,2025-06-13 00:00:00,81.09
+CP0286,Campaign 0286,Cross-sell,Paid Social,Planned,2024-11-03 00:00:00,2025-04-09 00:00:00,225.84
+CP0287,Campaign 0287,Awareness,Direct,Planned,2024-03-28 00:00:00,2024-11-12 00:00:00,602.13
+CP0288,Campaign 0288,Retention,Organic Social,Paused,2025-04-13 00:00:00,2025-06-07 00:00:00,381.56
+CP0289,Campaign 0289,Cross-sell,Webinar,Planned,2024-05-02 00:00:00,2024-06-18 00:00:00,397.52
+CP0290,Campaign 0290,Cross-sell,Organic Social,Ended,2024-12-28 00:00:00,2025-07-01 00:00:00,180.67
+CP0291,Campaign 0291,Retention,Webinar,Paused,2025-03-14 00:00:00,2025-09-26 00:00:00,486.86
+CP0292,Campaign 0292,Lead Generation,Email,Ended,2024-06-24 00:00:00,2025-01-01 00:00:00,170.45
+CP0293,Campaign 0293,Retention,Webinar,Planned,2024-06-20 00:00:00,2024-12-04 00:00:00,134.4
+CP0294,Campaign 0294,Lead Generation,Organic Social,Planned,2024-06-02 00:00:00,2024-11-12 00:00:00,738.17
+CP0295,Campaign 0295,Cross-sell,Partner,Paused,2025-01-29 00:00:00,2025-04-29 00:00:00,305.37
+CP0296,Campaign 0296,Awareness,Display,Planned,2025-02-17 00:00:00,2025-08-16 00:00:00,157.14
+CP0297,Campaign 0297,Awareness,Display,Ended,2024-07-13 00:00:00,2024-08-17 00:00:00,781.28
+CP0298,Campaign 0298,Cross-sell,Email,Ended,2024-08-29 00:00:00,2024-12-25 00:00:00,373.6
+CP0299,Campaign 0299,Retention,Display,Paused,2025-02-07 00:00:00,2025-04-09 00:00:00,698.06
+CP0300,Campaign 0300,Retention,SEO,Active,2025-03-27 00:00:00,2025-08-05 00:00:00,624.24
+CP0301,Campaign 0301,Awareness,Paid Social,Planned,2024-05-03 00:00:00,2024-12-25 00:00:00,29.03
+CP0302,Campaign 0302,Lead Generation,Display,Paused,2024-08-22 00:00:00,2025-02-25 00:00:00,209.13
+CP0303,Campaign 0303,Lead Generation,Email,Paused,2024-05-17 00:00:00,2024-12-11 00:00:00,378.82
+CP0304,Campaign 0304,Retention,Events,Planned,2025-05-15 00:00:00,2025-07-26 00:00:00,152.34
+CP0305,Campaign 0305,Cross-sell,Paid Social,Active,2024-07-10 00:00:00,2024-08-24 00:00:00,611.5
+CP0306,Campaign 0306,Lead Generation,Webinar,Active,2024-08-19 00:00:00,2024-09-29 00:00:00,68.34
+CP0307,Campaign 0307,Lead Generation,Partner,Active,2024-01-30 00:00:00,2024-07-05 00:00:00,784.83
+CP0308,Campaign 0308,Awareness,SEO,Ended,2024-03-21 00:00:00,2024-06-10 00:00:00,433.99
+CP0309,Campaign 0309,Lead Generation,Paid Social,Paused,2024-07-13 00:00:00,2025-03-09 00:00:00,60.21
+CP0310,Campaign 0310,Cross-sell,Webinar,Planned,2025-03-25 00:00:00,2025-04-27 00:00:00,375.61
+CP0311,Campaign 0311,Awareness,Paid Social,Ended,2025-05-12 00:00:00,2025-07-24 00:00:00,361.55
+CP0312,Campaign 0312,Awareness,SEO,Ended,2025-01-06 00:00:00,2025-06-19 00:00:00,408.46
+CP0313,Campaign 0313,Awareness,Direct,Planned,2024-08-26 00:00:00,2024-12-14 00:00:00,761.78
+CP0314,Campaign 0314,Lead Generation,Paid Social,Ended,2024-11-17 00:00:00,2025-05-15 00:00:00,659.59
+CP0315,Campaign 0315,Retention,Email,Planned,2024-04-23 00:00:00,2024-08-01 00:00:00,594.69
+CP0316,Campaign 0316,Cross-sell,Display,Paused,2024-11-24 00:00:00,2025-05-15 00:00:00,753.89
+CP0317,Campaign 0317,Retention,Email,Active,2024-02-11 00:00:00,2024-04-13 00:00:00,780.0
+CP0318,Campaign 0318,Retention,Display,Active,2025-05-05 00:00:00,2025-12-03 00:00:00,468.42
+CP0319,Campaign 0319,Lead Generation,Direct,Paused,2025-04-12 00:00:00,2025-06-21 00:00:00,130.74
+CP0320,Campaign 0320,Lead Generation,SEO,Active,2025-04-04 00:00:00,2025-10-26 00:00:00,481.56
+CP0321,Campaign 0321,Cross-sell,Partner,Planned,2024-06-24 00:00:00,2025-01-13 00:00:00,695.54
+CP0322,Campaign 0322,Awareness,Webinar,Planned,2025-01-16 00:00:00,2025-04-20 00:00:00,461.54
+CP0323,Campaign 0323,Lead Generation,Email,Active,2025-01-13 00:00:00,2025-08-19 00:00:00,152.38
+CP0324,Campaign 0324,Cross-sell,Email,Active,2024-07-30 00:00:00,2025-03-18 00:00:00,294.9
+CP0325,Campaign 0325,Cross-sell,Webinar,Ended,2024-05-04 00:00:00,2024-12-23 00:00:00,311.61
+CP0326,Campaign 0326,Awareness,SEO,Ended,2024-03-08 00:00:00,2024-08-29 00:00:00,482.23
+CP0327,Campaign 0327,Cross-sell,Direct,Paused,2024-02-18 00:00:00,2024-06-18 00:00:00,343.52
+CP0328,Campaign 0328,Awareness,Organic Social,Active,2024-08-19 00:00:00,2024-12-14 00:00:00,578.85
+CP0329,Campaign 0329,Retention,Paid Search,Planned,2024-11-01 00:00:00,2025-01-18 00:00:00,61.91
+CP0330,Campaign 0330,Awareness,Paid Search,Active,2024-08-20 00:00:00,2025-01-20 00:00:00,355.87
+CP0331,Campaign 0331,Lead Generation,Paid Social,Planned,2024-12-25 00:00:00,2025-08-01 00:00:00,757.79
+CP0332,Campaign 0332,Cross-sell,Email,Active,2025-03-20 00:00:00,2025-11-05 00:00:00,131.3
+CP0333,Campaign 0333,Awareness,SEO,Ended,2024-04-16 00:00:00,2024-08-31 00:00:00,323.27
+CP0334,Campaign 0334,Awareness,Organic Social,Active,2025-03-26 00:00:00,2025-11-21 00:00:00,505.17
+CP0335,Campaign 0335,Retention,Webinar,Ended,2025-01-15 00:00:00,2025-05-10 00:00:00,476.36
+CP0336,Campaign 0336,Cross-sell,Display,Active,2024-04-12 00:00:00,2024-07-25 00:00:00,728.45
+CP0337,Campaign 0337,Awareness,Partner,Paused,2024-02-27 00:00:00,2024-08-22 00:00:00,611.07
+CP0338,Campaign 0338,Lead Generation,Organic Social,Planned,2024-07-28 00:00:00,2025-02-21 00:00:00,457.56
+CP0339,Campaign 0339,Cross-sell,Partner,Active,2024-10-10 00:00:00,2025-01-12 00:00:00,769.86
+CP0340,Campaign 0340,Retention,Paid Search,Planned,2024-10-22 00:00:00,2025-01-28 00:00:00,350.11
+CP0341,Campaign 0341,Awareness,Direct,Planned,2024-09-26 00:00:00,2025-05-05 00:00:00,606.64
+CP0342,Campaign 0342,Cross-sell,Partner,Planned,2025-04-27 00:00:00,2025-08-01 00:00:00,57.71
+CP0343,Campaign 0343,Cross-sell,Direct,Planned,2024-03-26 00:00:00,2024-05-07 00:00:00,438.17
+CP0344,Campaign 0344,Cross-sell,Webinar,Paused,2024-08-10 00:00:00,2024-10-20 00:00:00,52.39
+CP0345,Campaign 0345,Awareness,Email,Active,2024-06-12 00:00:00,2024-12-31 00:00:00,793.63
+CP0346,Campaign 0346,Cross-sell,Direct,Ended,2025-01-07 00:00:00,2025-06-03 00:00:00,405.45
+CP0347,Campaign 0347,Lead Generation,Webinar,Active,2024-01-24 00:00:00,2024-03-22 00:00:00,202.27
+CP0348,Campaign 0348,Cross-sell,Webinar,Paused,2024-04-09 00:00:00,2024-10-09 00:00:00,276.7
+CP0349,Campaign 0349,Awareness,Webinar,Ended,2025-02-08 00:00:00,2025-09-15 00:00:00,641.6
+CP0350,Campaign 0350,Awareness,Email,Ended,2024-10-02 00:00:00,2025-04-12 00:00:00,670.62
+CP0351,Campaign 0351,Retention,Direct,Active,2024-10-19 00:00:00,2025-06-15 00:00:00,87.26
+CP0352,Campaign 0352,Lead Generation,SEO,Paused,2024-08-16 00:00:00,2024-12-06 00:00:00,769.24
+CP0353,Campaign 0353,Cross-sell,Webinar,Ended,2024-06-07 00:00:00,2024-10-19 00:00:00,122.35
+CP0354,Campaign 0354,Cross-sell,Display,Paused,2024-10-06 00:00:00,2025-05-07 00:00:00,664.81
+CP0355,Campaign 0355,Awareness,Webinar,Active,2024-10-11 00:00:00,2025-03-27 00:00:00,156.28
+CP0356,Campaign 0356,Awareness,Display,Paused,2024-02-02 00:00:00,2024-06-30 00:00:00,790.78
+CP0357,Campaign 0357,Retention,Paid Search,Active,2025-01-20 00:00:00,2025-06-15 00:00:00,745.85
+CP0358,Campaign 0358,Lead Generation,Organic Social,Planned,2024-09-16 00:00:00,2024-12-10 00:00:00,305.39
+CP0359,Campaign 0359,Cross-sell,Email,Ended,2025-01-13 00:00:00,2025-05-01 00:00:00,204.07
+CP0360,Campaign 0360,Cross-sell,Paid Search,Planned,2024-12-30 00:00:00,2025-07-01 00:00:00,438.61
+CP0361,Campaign 0361,Awareness,SEO,Ended,2025-01-15 00:00:00,2025-06-03 00:00:00,420.07
+CP0362,Campaign 0362,Awareness,Partner,Active,2024-07-03 00:00:00,2024-08-23 00:00:00,222.25
+CP0363,Campaign 0363,Lead Generation,Paid Social,Paused,2024-05-27 00:00:00,2024-10-04 00:00:00,264.29
+CP0364,Campaign 0364,Cross-sell,Paid Search,Ended,2024-03-13 00:00:00,2024-11-04 00:00:00,109.13
+CP0365,Campaign 0365,Awareness,SEO,Paused,2024-08-18 00:00:00,2024-11-24 00:00:00,269.73
+CP0366,Campaign 0366,Cross-sell,Display,Planned,2024-03-10 00:00:00,2024-08-07 00:00:00,322.13
+CP0367,Campaign 0367,Cross-sell,Paid Search,Planned,2024-11-20 00:00:00,2025-06-15 00:00:00,615.67
+CP0368,Campaign 0368,Lead Generation,Webinar,Planned,2025-03-13 00:00:00,2025-08-06 00:00:00,471.43
+CP0369,Campaign 0369,Lead Generation,SEO,Paused,2024-09-25 00:00:00,2024-11-13 00:00:00,289.02
+CP0370,Campaign 0370,Retention,Paid Social,Paused,2025-01-25 00:00:00,2025-07-25 00:00:00,711.99
+CP0371,Campaign 0371,Lead Generation,Display,Paused,2024-02-23 00:00:00,2024-06-01 00:00:00,388.27
+CP0372,Campaign 0372,Lead Generation,Organic Social,Planned,2024-04-14 00:00:00,2024-07-07 00:00:00,664.35
+CP0373,Campaign 0373,Cross-sell,Webinar,Active,2024-10-31 00:00:00,2025-01-30 00:00:00,225.25
+CP0374,Campaign 0374,Retention,Paid Search,Ended,2024-01-20 00:00:00,2024-04-07 00:00:00,534.2
+CP0375,Campaign 0375,Lead Generation,Organic Social,Paused,2024-05-21 00:00:00,2024-09-21 00:00:00,298.35
+CP0376,Campaign 0376,Lead Generation,Webinar,Active,2025-03-04 00:00:00,2025-06-12 00:00:00,691.83
+CP0377,Campaign 0377,Lead Generation,Partner,Ended,2025-04-14 00:00:00,2025-09-02 00:00:00,586.57
+CP0378,Campaign 0378,Retention,Partner,Paused,2025-04-04 00:00:00,2025-05-22 00:00:00,538.58
+CP0379,Campaign 0379,Cross-sell,Events,Planned,2024-08-10 00:00:00,2025-02-05 00:00:00,455.09
+CP0380,Campaign 0380,Cross-sell,SEO,Ended,2024-05-13 00:00:00,2024-12-10 00:00:00,119.59
+CP0381,Campaign 0381,Awareness,Display,Planned,2025-05-09 00:00:00,2025-06-17 00:00:00,759.92
+CP0382,Campaign 0382,Lead Generation,Paid Search,Planned,2024-09-04 00:00:00,2025-03-18 00:00:00,518.59
+CP0383,Campaign 0383,Awareness,Webinar,Active,2025-05-10 00:00:00,2025-12-25 00:00:00,135.18
+CP0384,Campaign 0384,Retention,Webinar,Active,2024-06-21 00:00:00,2024-10-26 00:00:00,708.6
+CP0385,Campaign 0385,Awareness,Direct,Ended,2024-02-01 00:00:00,2024-05-08 00:00:00,365.24
+CP0386,Campaign 0386,Awareness,Webinar,Planned,2024-03-01 00:00:00,2024-08-27 00:00:00,386.08
+CP0387,Campaign 0387,Awareness,Paid Social,Ended,2024-02-17 00:00:00,2024-03-24 00:00:00,338.17
+CP0388,Campaign 0388,Lead Generation,Email,Ended,2024-01-11 00:00:00,2024-06-07 00:00:00,546.79
+CP0389,Campaign 0389,Retention,Events,Planned,2024-05-13 00:00:00,2024-07-01 00:00:00,744.78
+CP0390,Campaign 0390,Retention,Email,Active,2025-01-15 00:00:00,2025-06-07 00:00:00,89.65
+CP0391,Campaign 0391,Retention,Paid Search,Ended,2024-01-14 00:00:00,2024-03-12 00:00:00,211.1
+CP0392,Campaign 0392,Lead Generation,Paid Social,Planned,2025-02-21 00:00:00,2025-05-20 00:00:00,396.52
+CP0393,Campaign 0393,Cross-sell,Webinar,Planned,2024-10-05 00:00:00,2024-11-09 00:00:00,724.77
+CP0394,Campaign 0394,Retention,Display,Paused,2024-07-16 00:00:00,2024-10-14 00:00:00,625.52
+CP0395,Campaign 0395,Cross-sell,Direct,Paused,2024-11-03 00:00:00,2025-04-23 00:00:00,131.68
+CP0396,Campaign 0396,Cross-sell,Paid Social,Ended,2024-09-24 00:00:00,2025-02-01 00:00:00,145.28
+CP0397,Campaign 0397,Lead Generation,Webinar,Active,2025-04-11 00:00:00,2025-09-22 00:00:00,454.53
+CP0398,Campaign 0398,Awareness,Display,Ended,2024-04-06 00:00:00,2024-09-09 00:00:00,447.3
+CP0399,Campaign 0399,Cross-sell,Display,Active,2024-10-21 00:00:00,2025-01-06 00:00:00,435.19
+CP0400,Campaign 0400,Lead Generation,Organic Social,Active,2024-12-01 00:00:00,2025-01-08 00:00:00,443.65
+CP0401,Campaign 0401,Cross-sell,Display,Active,2024-05-28 00:00:00,2024-11-27 00:00:00,677.21
+CP0402,Campaign 0402,Retention,Events,Planned,2024-05-06 00:00:00,2024-12-08 00:00:00,414.74
+CP0403,Campaign 0403,Awareness,Partner,Ended,2024-10-01 00:00:00,2024-11-12 00:00:00,686.0
+CP0404,Campaign 0404,Lead Generation,Display,Paused,2024-02-22 00:00:00,2024-08-08 00:00:00,697.03
+CP0405,Campaign 0405,Awareness,Paid Search,Paused,2024-04-28 00:00:00,2024-09-04 00:00:00,89.99
+CP0406,Campaign 0406,Awareness,Partner,Ended,2024-04-28 00:00:00,2024-11-08 00:00:00,607.93
+CP0407,Campaign 0407,Lead Generation,Webinar,Paused,2024-02-28 00:00:00,2024-10-10 00:00:00,318.31
+CP0408,Campaign 0408,Cross-sell,Paid Search,Active,2025-05-14 00:00:00,2025-10-09 00:00:00,508.41
+CP0409,Campaign 0409,Lead Generation,Partner,Active,2025-02-28 00:00:00,2025-05-29 00:00:00,189.35
+CP0410,Campaign 0410,Awareness,Events,Active,2024-04-22 00:00:00,2024-09-25 00:00:00,223.68
+CP0411,Campaign 0411,Awareness,Events,Planned,2024-04-13 00:00:00,2024-07-03 00:00:00,588.27
+CP0412,Campaign 0412,Retention,Paid Social,Planned,2024-08-13 00:00:00,2025-04-06 00:00:00,181.26
+CP0413,Campaign 0413,Lead Generation,Paid Social,Paused,2024-12-02 00:00:00,2025-06-10 00:00:00,375.44
+CP0414,Campaign 0414,Awareness,Partner,Active,2025-05-02 00:00:00,2025-12-11 00:00:00,277.52
+CP0415,Campaign 0415,Lead Generation,Display,Ended,2024-03-08 00:00:00,2024-07-18 00:00:00,752.56
+CP0416,Campaign 0416,Lead Generation,Webinar,Paused,2024-05-22 00:00:00,2024-09-27 00:00:00,276.46
+CP0417,Campaign 0417,Awareness,Partner,Paused,2024-07-07 00:00:00,2024-11-17 00:00:00,36.08
+CP0418,Campaign 0418,Awareness,Display,Paused,2025-03-29 00:00:00,2025-08-19 00:00:00,221.18
+CP0419,Campaign 0419,Cross-sell,SEO,Ended,2025-02-02 00:00:00,2025-08-19 00:00:00,455.19
+CP0420,Campaign 0420,Retention,Display,Planned,2025-04-25 00:00:00,2025-08-15 00:00:00,115.18
+CP0421,Campaign 0421,Retention,Organic Social,Ended,2025-01-03 00:00:00,2025-08-18 00:00:00,276.33
+CP0422,Campaign 0422,Awareness,Direct,Ended,2024-09-04 00:00:00,2024-12-21 00:00:00,382.37
+CP0423,Campaign 0423,Cross-sell,SEO,Active,2024-03-25 00:00:00,2024-06-19 00:00:00,730.61
+CP0424,Campaign 0424,Retention,Webinar,Ended,2025-01-28 00:00:00,2025-07-06 00:00:00,550.67
+CP0425,Campaign 0425,Lead Generation,Organic Social,Planned,2024-02-15 00:00:00,2024-07-23 00:00:00,774.07
+CP0426,Campaign 0426,Retention,Paid Search,Planned,2024-11-30 00:00:00,2025-05-29 00:00:00,66.63
+CP0427,Campaign 0427,Retention,Direct,Planned,2025-02-25 00:00:00,2025-07-25 00:00:00,399.52
+CP0428,Campaign 0428,Lead Generation,Events,Paused,2024-04-02 00:00:00,2024-10-24 00:00:00,639.26
+CP0429,Campaign 0429,Retention,Paid Search,Paused,2024-01-20 00:00:00,2024-03-06 00:00:00,642.79
+CP0430,Campaign 0430,Awareness,Paid Social,Active,2025-03-31 00:00:00,2025-11-13 00:00:00,425.86
+CP0431,Campaign 0431,Retention,Webinar,Planned,2024-12-04 00:00:00,2025-04-28 00:00:00,131.0
+CP0432,Campaign 0432,Lead Generation,SEO,Paused,2024-12-29 00:00:00,2025-03-17 00:00:00,612.35
+CP0433,Campaign 0433,Retention,Display,Active,2025-03-10 00:00:00,2025-10-08 00:00:00,709.39
+CP0434,Campaign 0434,Awareness,Paid Search,Active,2024-01-16 00:00:00,2024-03-17 00:00:00,471.41
+CP0435,Campaign 0435,Awareness,Display,Active,2025-02-16 00:00:00,2025-05-05 00:00:00,718.35
+CP0436,Campaign 0436,Lead Generation,Email,Ended,2024-12-06 00:00:00,2025-05-30 00:00:00,377.98
+CP0437,Campaign 0437,Retention,Display,Paused,2025-05-10 00:00:00,2025-07-15 00:00:00,242.97
+CP0438,Campaign 0438,Retention,Webinar,Ended,2024-07-10 00:00:00,2025-03-05 00:00:00,788.78
+CP0439,Campaign 0439,Retention,Paid Search,Paused,2024-11-16 00:00:00,2024-12-27 00:00:00,313.36
+CP0440,Campaign 0440,Awareness,Webinar,Planned,2024-01-30 00:00:00,2024-08-28 00:00:00,605.6
+CP0441,Campaign 0441,Cross-sell,Paid Search,Planned,2024-08-28 00:00:00,2025-04-03 00:00:00,724.69
+CP0442,Campaign 0442,Cross-sell,Events,Planned,2025-02-15 00:00:00,2025-08-10 00:00:00,346.44
+CP0443,Campaign 0443,Lead Generation,Partner,Active,2025-02-13 00:00:00,2025-05-29 00:00:00,63.5
+CP0444,Campaign 0444,Retention,Display,Planned,2024-09-10 00:00:00,2025-03-26 00:00:00,357.23
+CP0445,Campaign 0445,Cross-sell,Events,Planned,2025-04-15 00:00:00,2025-07-09 00:00:00,742.81
+CP0446,Campaign 0446,Retention,SEO,Ended,2024-03-28 00:00:00,2024-06-07 00:00:00,740.25
+CP0447,Campaign 0447,Lead Generation,Organic Social,Paused,2024-01-02 00:00:00,2024-04-23 00:00:00,669.48
+CP0448,Campaign 0448,Retention,Paid Search,Active,2024-06-29 00:00:00,2024-12-31 00:00:00,512.88
+CP0449,Campaign 0449,Lead Generation,Partner,Planned,2024-05-10 00:00:00,2024-06-29 00:00:00,151.16
+CP0450,Campaign 0450,Awareness,Events,Paused,2024-07-26 00:00:00,2024-09-27 00:00:00,385.14
+CP0451,Campaign 0451,Retention,Events,Ended,2025-02-27 00:00:00,2025-07-13 00:00:00,59.18
+CP0452,Campaign 0452,Awareness,Paid Social,Paused,2024-05-16 00:00:00,2024-10-23 00:00:00,623.09
+CP0453,Campaign 0453,Awareness,Direct,Ended,2025-04-03 00:00:00,2025-09-01 00:00:00,487.76
+CP0454,Campaign 0454,Awareness,Direct,Paused,2024-07-28 00:00:00,2025-02-21 00:00:00,766.07
+CP0455,Campaign 0455,Awareness,Paid Social,Planned,2024-09-26 00:00:00,2025-03-11 00:00:00,18.17
+CP0456,Campaign 0456,Lead Generation,Paid Social,Ended,2025-05-09 00:00:00,2025-08-01 00:00:00,618.79
+CP0457,Campaign 0457,Retention,Direct,Planned,2024-11-21 00:00:00,2025-07-03 00:00:00,484.0
+CP0458,Campaign 0458,Cross-sell,Paid Social,Ended,2024-01-21 00:00:00,2024-03-10 00:00:00,337.38
+CP0459,Campaign 0459,Retention,Webinar,Planned,2024-01-03 00:00:00,2024-03-18 00:00:00,187.44
+CP0460,Campaign 0460,Retention,Email,Planned,2024-04-28 00:00:00,2024-06-19 00:00:00,404.41
+CP0461,Campaign 0461,Cross-sell,Paid Social,Paused,2024-09-26 00:00:00,2025-04-06 00:00:00,664.59
+CP0462,Campaign 0462,Cross-sell,Direct,Paused,2024-10-11 00:00:00,2024-11-13 00:00:00,379.12
+CP0463,Campaign 0463,Awareness,Direct,Planned,2024-03-26 00:00:00,2024-09-17 00:00:00,440.86
+CP0464,Campaign 0464,Retention,Paid Search,Active,2024-12-16 00:00:00,2025-05-12 00:00:00,273.12
+CP0465,Campaign 0465,Lead Generation,Paid Search,Active,2024-05-17 00:00:00,2024-08-24 00:00:00,157.37
+CP0466,Campaign 0466,Cross-sell,Email,Active,2025-04-20 00:00:00,2025-05-25 00:00:00,332.3
+CP0467,Campaign 0467,Lead Generation,Display,Ended,2024-04-21 00:00:00,2024-10-23 00:00:00,767.55
+CP0468,Campaign 0468,Lead Generation,Paid Search,Planned,2024-09-03 00:00:00,2025-01-22 00:00:00,20.8
+CP0469,Campaign 0469,Cross-sell,Display,Paused,2024-09-22 00:00:00,2025-03-23 00:00:00,369.01
+CP0470,Campaign 0470,Lead Generation,Direct,Planned,2024-10-17 00:00:00,2025-06-07 00:00:00,774.39
+CP0471,Campaign 0471,Cross-sell,Partner,Ended,2024-11-05 00:00:00,2025-03-26 00:00:00,644.72
+CP0472,Campaign 0472,Awareness,Events,Ended,2024-07-18 00:00:00,2024-09-30 00:00:00,418.86
+CP0473,Campaign 0473,Retention,Display,Ended,2024-12-04 00:00:00,2025-04-12 00:00:00,506.91
+CP0474,Campaign 0474,Retention,Paid Social,Ended,2024-05-26 00:00:00,2024-09-01 00:00:00,770.33
+CP0475,Campaign 0475,Awareness,Webinar,Paused,2024-12-20 00:00:00,2025-01-29 00:00:00,694.23
+CP0476,Campaign 0476,Cross-sell,SEO,Paused,2024-10-28 00:00:00,2025-03-22 00:00:00,176.36
+CP0477,Campaign 0477,Awareness,Direct,Ended,2024-04-15 00:00:00,2024-12-03 00:00:00,120.61
+CP0478,Campaign 0478,Lead Generation,Paid Search,Ended,2024-02-14 00:00:00,2024-04-26 00:00:00,401.7
+CP0479,Campaign 0479,Awareness,Display,Active,2024-11-01 00:00:00,2025-05-13 00:00:00,663.93
+CP0480,Campaign 0480,Cross-sell,Events,Paused,2024-02-11 00:00:00,2024-03-23 00:00:00,147.38
+CP0481,Campaign 0481,Awareness,Webinar,Paused,2024-05-25 00:00:00,2025-01-12 00:00:00,104.56
+CP0482,Campaign 0482,Lead Generation,Events,Planned,2024-12-03 00:00:00,2025-05-23 00:00:00,619.62
+CP0483,Campaign 0483,Lead Generation,Partner,Active,2024-09-11 00:00:00,2024-12-31 00:00:00,384.83
+CP0484,Campaign 0484,Lead Generation,Paid Social,Ended,2024-05-08 00:00:00,2024-12-11 00:00:00,447.05
+CP0485,Campaign 0485,Awareness,Events,Active,2024-08-23 00:00:00,2025-03-30 00:00:00,228.11
+CP0486,Campaign 0486,Retention,Paid Search,Ended,2024-08-19 00:00:00,2025-02-06 00:00:00,353.57
+CP0487,Campaign 0487,Retention,Webinar,Paused,2024-06-11 00:00:00,2024-11-14 00:00:00,32.52
+CP0488,Campaign 0488,Retention,Organic Social,Active,2024-02-14 00:00:00,2024-04-20 00:00:00,770.98
+CP0489,Campaign 0489,Awareness,Email,Paused,2024-05-05 00:00:00,2024-11-11 00:00:00,361.47
+CP0490,Campaign 0490,Retention,Paid Search,Ended,2024-12-12 00:00:00,2025-06-30 00:00:00,751.77
+CP0491,Campaign 0491,Cross-sell,Direct,Ended,2024-07-24 00:00:00,2024-12-02 00:00:00,508.66
+CP0492,Campaign 0492,Cross-sell,Paid Search,Paused,2024-11-13 00:00:00,2025-05-09 00:00:00,89.88
+CP0493,Campaign 0493,Retention,SEO,Paused,2024-01-10 00:00:00,2024-02-23 00:00:00,328.92
+CP0494,Campaign 0494,Retention,Direct,Paused,2025-01-12 00:00:00,2025-05-19 00:00:00,74.42
+CP0495,Campaign 0495,Lead Generation,Organic Social,Planned,2024-11-13 00:00:00,2025-06-03 00:00:00,474.85
+CP0496,Campaign 0496,Lead Generation,Webinar,Planned,2025-01-17 00:00:00,2025-04-12 00:00:00,412.02
+CP0497,Campaign 0497,Cross-sell,Paid Search,Paused,2024-06-27 00:00:00,2024-12-03 00:00:00,203.29
+CP0498,Campaign 0498,Lead Generation,Paid Search,Active,2024-12-15 00:00:00,2025-04-17 00:00:00,45.53
+CP0499,Campaign 0499,Retention,Display,Ended,2024-05-21 00:00:00,2025-01-05 00:00:00,126.23
+CP0500,Campaign 0500,Lead Generation,Organic Social,Ended,2024-06-28 00:00:00,2024-11-29 00:00:00,18.74
+CP0501,Campaign 0501,Cross-sell,Webinar,Active,2024-08-23 00:00:00,2025-04-04 00:00:00,356.35
+CP0502,Campaign 0502,Awareness,Paid Search,Active,2024-04-15 00:00:00,2024-08-23 00:00:00,57.95
+CP0503,Campaign 0503,Awareness,Partner,Ended,2024-04-07 00:00:00,2024-05-29 00:00:00,158.82
+CP0504,Campaign 0504,Awareness,Direct,Ended,2024-01-04 00:00:00,2024-04-05 00:00:00,599.55
+CP0505,Campaign 0505,Lead Generation,Paid Social,Ended,2024-09-20 00:00:00,2024-11-20 00:00:00,489.88
+CP0506,Campaign 0506,Retention,SEO,Ended,2024-12-29 00:00:00,2025-06-14 00:00:00,514.33
+CP0507,Campaign 0507,Cross-sell,SEO,Active,2024-05-22 00:00:00,2024-07-31 00:00:00,773.02
+CP0508,Campaign 0508,Cross-sell,Events,Ended,2024-07-22 00:00:00,2025-01-21 00:00:00,271.34
+CP0509,Campaign 0509,Lead Generation,Paid Search,Paused,2024-05-12 00:00:00,2024-12-24 00:00:00,373.75
+CP0510,Campaign 0510,Awareness,SEO,Paused,2024-08-06 00:00:00,2025-01-31 00:00:00,721.61
+CP0511,Campaign 0511,Lead Generation,Webinar,Planned,2025-04-07 00:00:00,2025-05-10 00:00:00,283.68
+CP0512,Campaign 0512,Awareness,Events,Ended,2024-03-31 00:00:00,2024-10-20 00:00:00,334.9
+CP0513,Campaign 0513,Cross-sell,SEO,Active,2025-04-20 00:00:00,2025-07-29 00:00:00,276.58
+CP0514,Campaign 0514,Cross-sell,Display,Planned,2025-01-11 00:00:00,2025-07-13 00:00:00,314.37
+CP0515,Campaign 0515,Lead Generation,Events,Paused,2024-11-24 00:00:00,2025-06-05 00:00:00,347.64
+CP0516,Campaign 0516,Lead Generation,Paid Search,Planned,2024-03-26 00:00:00,2024-04-30 00:00:00,675.97
+CP0517,Campaign 0517,Cross-sell,Email,Planned,2024-12-16 00:00:00,2025-05-16 00:00:00,520.06
+CP0518,Campaign 0518,Lead Generation,SEO,Active,2024-02-17 00:00:00,2024-05-03 00:00:00,497.93
+CP0519,Campaign 0519,Cross-sell,Email,Active,2024-08-11 00:00:00,2025-02-02 00:00:00,649.62
+CP0520,Campaign 0520,Cross-sell,Webinar,Active,2024-02-11 00:00:00,2024-05-25 00:00:00,413.36
+CP0521,Campaign 0521,Awareness,Webinar,Paused,2024-01-02 00:00:00,2024-06-03 00:00:00,92.24
+CP0522,Campaign 0522,Retention,Partner,Ended,2025-04-20 00:00:00,2025-07-03 00:00:00,223.21
+CP0523,Campaign 0523,Lead Generation,Direct,Ended,2025-02-06 00:00:00,2025-07-21 00:00:00,535.08
+CP0524,Campaign 0524,Cross-sell,Email,Active,2025-05-03 00:00:00,2025-12-14 00:00:00,125.61
+CP0525,Campaign 0525,Cross-sell,Webinar,Active,2024-03-03 00:00:00,2024-08-04 00:00:00,792.61
+CP0526,Campaign 0526,Awareness,Paid Social,Active,2025-03-24 00:00:00,2025-06-23 00:00:00,546.22
+CP0527,Campaign 0527,Awareness,Paid Social,Paused,2024-06-14 00:00:00,2024-10-13 00:00:00,475.03
+CP0528,Campaign 0528,Awareness,Organic Social,Active,2024-08-10 00:00:00,2025-01-01 00:00:00,172.31
+CP0529,Campaign 0529,Awareness,Partner,Planned,2024-02-10 00:00:00,2024-07-16 00:00:00,271.36
+CP0530,Campaign 0530,Awareness,Webinar,Planned,2024-01-02 00:00:00,2024-05-16 00:00:00,178.72
+CP0531,Campaign 0531,Awareness,Paid Social,Planned,2025-02-08 00:00:00,2025-06-18 00:00:00,543.35
+CP0532,Campaign 0532,Cross-sell,Partner,Active,2025-01-31 00:00:00,2025-05-09 00:00:00,274.45
+CP0533,Campaign 0533,Lead Generation,Display,Paused,2024-07-15 00:00:00,2024-12-17 00:00:00,37.26
+CP0534,Campaign 0534,Lead Generation,Organic Social,Planned,2024-07-08 00:00:00,2024-12-06 00:00:00,631.59
+CP0535,Campaign 0535,Cross-sell,SEO,Paused,2024-01-20 00:00:00,2024-07-10 00:00:00,114.48
+CP0536,Campaign 0536,Awareness,Paid Social,Planned,2024-08-01 00:00:00,2024-08-31 00:00:00,308.2
+CP0537,Campaign 0537,Cross-sell,Display,Active,2024-11-22 00:00:00,2024-12-23 00:00:00,414.98
+CP0538,Campaign 0538,Retention,SEO,Active,2025-04-29 00:00:00,2025-08-12 00:00:00,481.32
+CP0539,Campaign 0539,Lead Generation,Email,Paused,2024-02-04 00:00:00,2024-04-27 00:00:00,41.85
+CP0540,Campaign 0540,Lead Generation,SEO,Planned,2024-10-12 00:00:00,2025-04-08 00:00:00,237.03
+CP0541,Campaign 0541,Lead Generation,Paid Social,Paused,2024-04-11 00:00:00,2024-07-16 00:00:00,76.26
+CP0542,Campaign 0542,Retention,Events,Active,2024-01-29 00:00:00,2024-03-25 00:00:00,480.45
+CP0543,Campaign 0543,Cross-sell,SEO,Ended,2025-03-04 00:00:00,2025-07-05 00:00:00,364.47
+CP0544,Campaign 0544,Cross-sell,Partner,Paused,2025-01-05 00:00:00,2025-03-12 00:00:00,194.99
+CP0545,Campaign 0545,Awareness,Paid Search,Ended,2024-03-15 00:00:00,2024-10-02 00:00:00,165.6
+CP0546,Campaign 0546,Awareness,Paid Search,Planned,2024-06-02 00:00:00,2024-10-29 00:00:00,649.44
+CP0547,Campaign 0547,Cross-sell,Webinar,Active,2024-08-14 00:00:00,2024-09-22 00:00:00,711.33
+CP0548,Campaign 0548,Retention,Email,Paused,2025-01-25 00:00:00,2025-05-29 00:00:00,665.12
+CP0549,Campaign 0549,Awareness,Organic Social,Ended,2025-02-13 00:00:00,2025-07-04 00:00:00,394.4
+CP0550,Campaign 0550,Retention,Email,Planned,2024-12-05 00:00:00,2025-07-04 00:00:00,640.33
+CP0551,Campaign 0551,Lead Generation,Paid Search,Planned,2024-04-20 00:00:00,2024-06-22 00:00:00,480.5
+CP0552,Campaign 0552,Retention,Events,Paused,2024-01-25 00:00:00,2024-05-06 00:00:00,320.45
+CP0553,Campaign 0553,Cross-sell,Organic Social,Paused,2025-01-17 00:00:00,2025-07-20 00:00:00,92.5
+CP0554,Campaign 0554,Retention,Email,Active,2024-07-06 00:00:00,2024-09-26 00:00:00,99.9
+CP0555,Campaign 0555,Awareness,SEO,Active,2024-06-12 00:00:00,2024-09-29 00:00:00,532.08
+CP0556,Campaign 0556,Cross-sell,Email,Ended,2024-11-28 00:00:00,2025-05-24 00:00:00,340.75
+CP0557,Campaign 0557,Retention,Paid Social,Active,2024-03-05 00:00:00,2024-05-20 00:00:00,234.41
+CP0558,Campaign 0558,Cross-sell,Events,Planned,2025-04-04 00:00:00,2025-08-18 00:00:00,60.39
+CP0559,Campaign 0559,Awareness,Partner,Paused,2025-02-15 00:00:00,2025-07-23 00:00:00,213.24
+CP0560,Campaign 0560,Awareness,Organic Social,Active,2024-01-08 00:00:00,2024-08-25 00:00:00,683.98
+CP0561,Campaign 0561,Retention,Direct,Active,2024-02-15 00:00:00,2024-07-13 00:00:00,250.48
+CP0562,Campaign 0562,Lead Generation,Organic Social,Active,2024-01-07 00:00:00,2024-04-26 00:00:00,390.15
+CP0563,Campaign 0563,Lead Generation,Organic Social,Paused,2025-02-16 00:00:00,2025-04-12 00:00:00,784.98
+CP0564,Campaign 0564,Lead Generation,Events,Planned,2024-04-03 00:00:00,2024-06-23 00:00:00,121.23
+CP0565,Campaign 0565,Awareness,Organic Social,Ended,2024-11-11 00:00:00,2025-06-20 00:00:00,524.47
+CP0566,Campaign 0566,Awareness,Paid Search,Planned,2024-02-26 00:00:00,2024-04-12 00:00:00,103.66
+CP0567,Campaign 0567,Awareness,Webinar,Planned,2024-07-15 00:00:00,2025-02-21 00:00:00,128.2
+CP0568,Campaign 0568,Retention,Paid Social,Active,2025-04-18 00:00:00,2025-11-13 00:00:00,104.51
+CP0569,Campaign 0569,Lead Generation,Email,Paused,2024-02-16 00:00:00,2024-04-13 00:00:00,435.91
+CP0570,Campaign 0570,Retention,Paid Social,Paused,2025-05-02 00:00:00,2025-08-23 00:00:00,308.98
+CP0571,Campaign 0571,Retention,Webinar,Planned,2024-07-08 00:00:00,2024-08-20 00:00:00,639.58
+CP0572,Campaign 0572,Cross-sell,SEO,Paused,2024-07-18 00:00:00,2024-11-11 00:00:00,737.73
+CP0573,Campaign 0573,Awareness,Direct,Planned,2025-01-27 00:00:00,2025-06-05 00:00:00,276.07
+CP0574,Campaign 0574,Awareness,Organic Social,Ended,2024-01-21 00:00:00,2024-05-26 00:00:00,333.41
+CP0575,Campaign 0575,Awareness,Email,Ended,2025-01-10 00:00:00,2025-06-09 00:00:00,439.47
+CP0576,Campaign 0576,Awareness,Organic Social,Planned,2024-05-19 00:00:00,2024-10-08 00:00:00,279.01
+CP0577,Campaign 0577,Cross-sell,Direct,Planned,2025-01-02 00:00:00,2025-06-07 00:00:00,54.18
+CP0578,Campaign 0578,Awareness,SEO,Planned,2024-10-22 00:00:00,2024-12-27 00:00:00,80.37
+CP0579,Campaign 0579,Lead Generation,Organic Social,Paused,2024-11-20 00:00:00,2025-06-10 00:00:00,212.47
+CP0580,Campaign 0580,Lead Generation,Display,Planned,2024-12-26 00:00:00,2025-06-28 00:00:00,496.03
+CP0581,Campaign 0581,Lead Generation,Direct,Active,2024-04-22 00:00:00,2024-08-31 00:00:00,300.41
+CP0582,Campaign 0582,Retention,Paid Search,Paused,2024-11-24 00:00:00,2025-02-25 00:00:00,93.11
+CP0583,Campaign 0583,Cross-sell,Partner,Paused,2024-03-11 00:00:00,2024-07-10 00:00:00,88.31
+CP0584,Campaign 0584,Retention,Organic Social,Ended,2024-04-19 00:00:00,2024-06-20 00:00:00,327.24
+CP0585,Campaign 0585,Cross-sell,Paid Social,Paused,2025-02-15 00:00:00,2025-05-21 00:00:00,254.52
+CP0586,Campaign 0586,Cross-sell,Email,Paused,2025-02-23 00:00:00,2025-05-26 00:00:00,443.13
+CP0587,Campaign 0587,Lead Generation,Webinar,Active,2025-03-01 00:00:00,2025-10-02 00:00:00,703.81
+CP0588,Campaign 0588,Cross-sell,Partner,Ended,2025-04-25 00:00:00,2025-08-24 00:00:00,699.58
+CP0589,Campaign 0589,Retention,Direct,Planned,2024-08-11 00:00:00,2025-02-23 00:00:00,273.49
+CP0590,Campaign 0590,Awareness,Partner,Active,2024-04-06 00:00:00,2024-09-30 00:00:00,710.35
+CP0591,Campaign 0591,Retention,Organic Social,Ended,2024-10-14 00:00:00,2025-02-15 00:00:00,285.94
+CP0592,Campaign 0592,Lead Generation,Events,Active,2024-01-13 00:00:00,2024-06-02 00:00:00,281.83
+CP0593,Campaign 0593,Cross-sell,Organic Social,Planned,2024-07-13 00:00:00,2024-08-17 00:00:00,498.2
+CP0594,Campaign 0594,Lead Generation,Events,Ended,2024-09-24 00:00:00,2025-02-21 00:00:00,174.0
+CP0595,Campaign 0595,Lead Generation,Paid Social,Paused,2024-02-26 00:00:00,2024-09-05 00:00:00,129.96
+CP0596,Campaign 0596,Lead Generation,Events,Planned,2025-01-29 00:00:00,2025-03-27 00:00:00,662.25
+CP0597,Campaign 0597,Cross-sell,Paid Search,Planned,2024-10-04 00:00:00,2025-02-01 00:00:00,176.57
+CP0598,Campaign 0598,Lead Generation,Display,Active,2025-01-28 00:00:00,2025-08-27 00:00:00,724.62
+CP0599,Campaign 0599,Retention,Display,Ended,2025-03-31 00:00:00,2025-08-03 00:00:00,754.6
+CP0600,Campaign 0600,Lead Generation,Organic Social,Planned,2025-04-06 00:00:00,2025-07-15 00:00:00,581.82
+CP0601,Campaign 0601,Awareness,Email,Active,2024-01-02 00:00:00,2024-02-11 00:00:00,235.88
+CP0602,Campaign 0602,Lead Generation,SEO,Planned,2024-07-03 00:00:00,2025-02-08 00:00:00,331.14
+CP0603,Campaign 0603,Lead Generation,Paid Search,Ended,2024-04-29 00:00:00,2024-10-16 00:00:00,368.76
+CP0604,Campaign 0604,Awareness,Partner,Ended,2024-04-15 00:00:00,2024-12-03 00:00:00,292.67
+CP0605,Campaign 0605,Lead Generation,Paid Search,Active,2024-10-07 00:00:00,2025-04-10 00:00:00,80.5
+CP0606,Campaign 0606,Lead Generation,SEO,Planned,2025-04-22 00:00:00,2025-07-29 00:00:00,251.87
+CP0607,Campaign 0607,Awareness,Display,Active,2024-03-29 00:00:00,2024-10-16 00:00:00,704.71
+CP0608,Campaign 0608,Cross-sell,Paid Social,Planned,2024-05-13 00:00:00,2024-08-24 00:00:00,74.09
+CP0609,Campaign 0609,Retention,Events,Planned,2024-02-01 00:00:00,2024-04-01 00:00:00,723.62
+CP0610,Campaign 0610,Cross-sell,Direct,Paused,2024-07-20 00:00:00,2024-08-27 00:00:00,107.96
+CP0611,Campaign 0611,Retention,Paid Search,Active,2024-05-01 00:00:00,2024-06-12 00:00:00,781.53
+CP0612,Campaign 0612,Awareness,Display,Active,2024-10-18 00:00:00,2024-12-14 00:00:00,633.49
+CP0613,Campaign 0613,Cross-sell,SEO,Ended,2024-11-13 00:00:00,2025-02-18 00:00:00,519.28
+CP0614,Campaign 0614,Retention,Direct,Ended,2025-01-05 00:00:00,2025-04-22 00:00:00,473.67
+CP0615,Campaign 0615,Retention,Webinar,Paused,2024-06-14 00:00:00,2025-02-03 00:00:00,562.46
+CP0616,Campaign 0616,Retention,Paid Search,Planned,2024-08-01 00:00:00,2024-11-08 00:00:00,333.72
+CP0617,Campaign 0617,Awareness,Events,Planned,2024-10-18 00:00:00,2025-02-11 00:00:00,695.84
+CP0618,Campaign 0618,Cross-sell,Direct,Planned,2024-08-20 00:00:00,2025-01-16 00:00:00,433.97
+CP0619,Campaign 0619,Lead Generation,Organic Social,Paused,2024-08-05 00:00:00,2025-03-18 00:00:00,258.91
+CP0620,Campaign 0620,Awareness,Webinar,Paused,2024-02-16 00:00:00,2024-07-09 00:00:00,666.13
+CP0621,Campaign 0621,Retention,Email,Planned,2025-03-29 00:00:00,2025-08-25 00:00:00,145.96
+CP0622,Campaign 0622,Cross-sell,Email,Active,2025-04-24 00:00:00,2025-08-05 00:00:00,48.41
+CP0623,Campaign 0623,Retention,Paid Search,Planned,2025-02-07 00:00:00,2025-09-11 00:00:00,688.86
+CP0624,Campaign 0624,Lead Generation,Partner,Planned,2024-11-17 00:00:00,2025-05-10 00:00:00,764.93
+CP0625,Campaign 0625,Cross-sell,Events,Planned,2025-01-31 00:00:00,2025-06-19 00:00:00,155.11
+CP0626,Campaign 0626,Cross-sell,Paid Social,Active,2024-10-16 00:00:00,2025-03-26 00:00:00,218.25
+CP0627,Campaign 0627,Retention,Partner,Paused,2025-02-19 00:00:00,2025-05-23 00:00:00,139.67
+CP0628,Campaign 0628,Cross-sell,SEO,Paused,2024-01-31 00:00:00,2024-03-24 00:00:00,256.78
+CP0629,Campaign 0629,Retention,Display,Paused,2024-07-26 00:00:00,2025-03-23 00:00:00,457.73
+CP0630,Campaign 0630,Awareness,Paid Search,Paused,2024-04-17 00:00:00,2024-07-02 00:00:00,601.15
+CP0631,Campaign 0631,Awareness,Partner,Paused,2024-07-14 00:00:00,2025-03-02 00:00:00,590.67
+CP0632,Campaign 0632,Cross-sell,Webinar,Active,2025-04-03 00:00:00,2025-10-12 00:00:00,642.04
+CP0633,Campaign 0633,Cross-sell,Email,Paused,2024-07-16 00:00:00,2024-09-13 00:00:00,223.87
+CP0634,Campaign 0634,Lead Generation,Events,Paused,2025-01-09 00:00:00,2025-07-30 00:00:00,251.0
+CP0635,Campaign 0635,Awareness,Paid Search,Active,2025-03-07 00:00:00,2025-09-07 00:00:00,372.49
+CP0636,Campaign 0636,Cross-sell,Events,Ended,2025-02-09 00:00:00,2025-05-11 00:00:00,682.78
+CP0637,Campaign 0637,Retention,Direct,Planned,2024-03-07 00:00:00,2024-10-12 00:00:00,602.29
+CP0638,Campaign 0638,Cross-sell,Webinar,Paused,2024-02-19 00:00:00,2024-09-22 00:00:00,523.96
+CP0639,Campaign 0639,Lead Generation,Display,Active,2025-03-23 00:00:00,2025-06-19 00:00:00,280.83
+CP0640,Campaign 0640,Lead Generation,Display,Planned,2024-02-01 00:00:00,2024-07-26 00:00:00,781.83
+CP0641,Campaign 0641,Awareness,Paid Social,Active,2024-12-23 00:00:00,2025-02-14 00:00:00,47.25
+CP0642,Campaign 0642,Awareness,Display,Paused,2024-06-16 00:00:00,2024-07-22 00:00:00,773.38
+CP0643,Campaign 0643,Cross-sell,Display,Ended,2024-03-09 00:00:00,2024-06-03 00:00:00,306.8
+CP0644,Campaign 0644,Awareness,Direct,Ended,2024-10-26 00:00:00,2025-06-21 00:00:00,59.55
+CP0645,Campaign 0645,Cross-sell,Display,Ended,2024-12-14 00:00:00,2025-02-15 00:00:00,150.52
+CP0646,Campaign 0646,Cross-sell,Events,Paused,2025-02-24 00:00:00,2025-05-03 00:00:00,715.66
+CP0647,Campaign 0647,Retention,Webinar,Paused,2025-02-09 00:00:00,2025-04-19 00:00:00,147.93
+CP0648,Campaign 0648,Lead Generation,Organic Social,Paused,2025-02-12 00:00:00,2025-08-02 00:00:00,199.03
+CP0649,Campaign 0649,Lead Generation,Paid Social,Active,2024-07-28 00:00:00,2024-12-11 00:00:00,371.25
+CP0650,Campaign 0650,Cross-sell,SEO,Paused,2024-10-05 00:00:00,2024-12-09 00:00:00,222.85

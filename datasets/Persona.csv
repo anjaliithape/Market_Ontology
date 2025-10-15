@@ -1,0 +1,61 @@
+persona_id,segment,industry,region,role
+P001,SMB,Energy,EU-North,Security Architect
+P002,Mid-Market,Healthcare,DACH,CIO
+P003,Mid-Market,Manufacturing,DACH,Security Architect
+P004,SMB,Software,SEA,DevOps Lead
+P005,Enterprise,Manufacturing,LATAM,CISO
+P006,Enterprise,Telecom,SEA,CTO
+P007,SMB,Energy,EU-North,CTO
+P008,Enterprise,Telecom,MEA,Security Architect
+P009,Enterprise,Energy,EMEA,IT Director
+P010,Enterprise,Retail,APAC,Security Architect
+P011,Enterprise,Retail,ANZ,CTO
+P012,SMB,Energy,ANZ,CIO
+P013,Enterprise,Healthcare,EU-Central,DevOps Lead
+P014,Enterprise,Education,India,CISO
+P015,Mid-Market,Software,SEA,IT Director
+P016,Mid-Market,Finance,DACH,CISO
+P017,SMB,Education,EU-Central,CIO
+P018,SMB,Finance,ANZ,CISO
+P019,Mid-Market,Education,ANZ,CISO
+P020,Enterprise,Retail,APAC,IT Director
+P021,SMB,Retail,EU-Central,Analyst
+P022,Mid-Market,Energy,India,VP Engineering
+P023,Mid-Market,Telecom,India,Security Architect
+P024,SMB,Telecom,NA,CISO
+P025,SMB,Finance,ANZ,CISO
+P026,SMB,Retail,APAC,Analyst
+P027,Mid-Market,Energy,SEA,Marketing Manager
+P028,Mid-Market,Manufacturing,EU-Central,Marketing Manager
+P029,Mid-Market,Telecom,EU-Central,IT Director
+P030,Mid-Market,Telecom,India,Marketing Manager
+P031,Mid-Market,Healthcare,India,VP Engineering
+P032,Enterprise,Retail,LATAM,VP Engineering
+P033,SMB,Software,UKI,Security Architect
+P034,Enterprise,Retail,UKI,CISO
+P035,Enterprise,Retail,LATAM,Marketing Manager
+P036,SMB,Retail,EU-North,DevOps Lead
+P037,SMB,Manufacturing,DACH,Security Architect
+P038,Mid-Market,Retail,DACH,CIO
+P039,Mid-Market,Finance,India,Data Engineer
+P040,SMB,Manufacturing,MEA,Data Engineer
+P041,Mid-Market,Finance,EU-Central,Data Engineer
+P042,SMB,Software,ANZ,Analyst
+P043,Enterprise,Retail,DACH,IT Director
+P044,SMB,Education,ANZ,Data Engineer
+P045,Mid-Market,Energy,UKI,Marketing Manager
+P046,SMB,Healthcare,APAC,CTO
+P047,SMB,Finance,UKI,Marketing Manager
+P048,Enterprise,Education,ANZ,CIO
+P049,Enterprise,Software,UKI,Security Architect
+P050,SMB,Healthcare,DACH,Data Engineer
+P051,SMB,Telecom,MEA,Marketing Manager
+P052,Enterprise,Software,APAC,CTO
+P053,Enterprise,Telecom,APAC,DevOps Lead
+P054,Enterprise,Healthcare,LATAM,Security Architect
+P055,Mid-Market,Retail,APAC,VP Engineering
+P056,Mid-Market,Retail,DACH,Data Engineer
+P057,Enterprise,Education,DACH,Marketing Manager
+P058,SMB,Retail,DACH,VP Engineering
+P059,Mid-Market,Finance,UKI,DevOps Lead
+P060,Mid-Market,Retail,UKI,Data Engineer
